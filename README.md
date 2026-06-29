@@ -1,2 +1,15 @@
-# GhostLogin---Automated-SSH-Security-Assessment-Tool
-Automated SSH enumeration, credential auditing, and post-exploitation tool for security assessments.
+# GhostLogin
+
+Automated SSH enumeration and credential auditing tool developed in Bash.
+
+## Tools Used
+
+* Bash
+* Nmap
+* Hydra
+* Kali Linux
+
+## Files
+
+* ghostlogin.sh - Main script
+* GhostLogin_Report.pdf - Full project documentation and screenshots
